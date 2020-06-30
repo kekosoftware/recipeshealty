@@ -1,4 +1,4 @@
-# meal-prep
+# Recipes Healty
 
 ## Project setup
 ```
